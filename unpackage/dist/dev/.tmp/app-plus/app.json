@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/search",
+    "pages/me/me"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "demo",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#515151",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "selectedIconPath": "",
+        "iconPath": ""
+      },
+      {
+        "pagePath": "pages/search/search",
+        "text": "搜索",
+        "selectedIconPath": "",
+        "iconPath": ""
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "selectedIconPath": "",
+        "iconPath": ""
+      }
+    ]
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "Marvel",
+  "compilerVersion": "1.9.4",
+  "usingComponents": {}
+}
