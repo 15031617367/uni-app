@@ -7035,17 +7035,17 @@ module.exports = g;
 
 /***/ }),
 
-/***/ "E:\\myFile\\uni-app\\Marvel\\main.js":
-/*!****************************************!*\
-  !*** E:/myFile/uni-app/Marvel/main.js ***!
-  \****************************************/
+/***/ "E:\\myFile\\uni-app\\uni-app\\main.js":
+/*!*****************************************!*\
+  !*** E:/myFile/uni-app/uni-app/main.js ***!
+  \*****************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(createApp) {__webpack_require__(/*! uni-pages */ "E:\\myFile\\uni-app\\Marvel\\pages.json");
+/* WEBPACK VAR INJECTION */(function(createApp) {__webpack_require__(/*! uni-pages */ "E:\\myFile\\uni-app\\uni-app\\pages.json");
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ "./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mp-vue/dist/mp.runtime.esm.js"));
-var _App = _interopRequireDefault(__webpack_require__(/*! ./App */ "E:\\myFile\\uni-app\\Marvel\\App.vue"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};var ownKeys = Object.keys(source);if (typeof Object.getOwnPropertySymbols === 'function') {ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) {return Object.getOwnPropertyDescriptor(source, sym).enumerable;}));}ownKeys.forEach(function (key) {_defineProperty(target, key, source[key]);});}return target;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}
+var _App = _interopRequireDefault(__webpack_require__(/*! ./App */ "E:\\myFile\\uni-app\\uni-app\\App.vue"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}function _objectSpread(target) {for (var i = 1; i < arguments.length; i++) {var source = arguments[i] != null ? arguments[i] : {};var ownKeys = Object.keys(source);if (typeof Object.getOwnPropertySymbols === 'function') {ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) {return Object.getOwnPropertyDescriptor(source, sym).enumerable;}));}ownKeys.forEach(function (key) {_defineProperty(target, key, source[key]);});}return target;}function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}
 
 _vue.default.config.productionTip = false;
 
@@ -7059,61 +7059,61 @@ createApp(app).$mount();
 
 /***/ }),
 
-/***/ "E:\\myFile\\uni-app\\Marvel\\main.js?{\"page\":\"pages%2Findex%2Findex\"}":
-/*!*************************************************************************!*\
-  !*** E:/myFile/uni-app/Marvel/main.js?{"page":"pages%2Findex%2Findex"} ***!
-  \*************************************************************************/
+/***/ "E:\\myFile\\uni-app\\uni-app\\main.js?{\"page\":\"pages%2Findex%2Findex\"}":
+/*!**************************************************************************!*\
+  !*** E:/myFile/uni-app/uni-app/main.js?{"page":"pages%2Findex%2Findex"} ***!
+  \**************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ "E:\\myFile\\uni-app\\Marvel\\pages.json");
+/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ "E:\\myFile\\uni-app\\uni-app\\pages.json");
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ "./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mp-vue/dist/mp.runtime.esm.js"));
-var _index = _interopRequireDefault(__webpack_require__(/*! ./pages/index/index.vue */ "E:\\myFile\\uni-app\\Marvel\\pages\\index\\index.vue"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+var _index = _interopRequireDefault(__webpack_require__(/*! ./pages/index/index.vue */ "E:\\myFile\\uni-app\\uni-app\\pages\\index\\index.vue"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
 createPage(_index.default);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ "./node_modules/@dcloudio/uni-app-plus/dist/index.js")["createPage"]))
 
 /***/ }),
 
-/***/ "E:\\myFile\\uni-app\\Marvel\\main.js?{\"page\":\"pages%2Fme%2Fme\"}":
-/*!*******************************************************************!*\
-  !*** E:/myFile/uni-app/Marvel/main.js?{"page":"pages%2Fme%2Fme"} ***!
-  \*******************************************************************/
+/***/ "E:\\myFile\\uni-app\\uni-app\\main.js?{\"page\":\"pages%2Fme%2Fme\"}":
+/*!********************************************************************!*\
+  !*** E:/myFile/uni-app/uni-app/main.js?{"page":"pages%2Fme%2Fme"} ***!
+  \********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ "E:\\myFile\\uni-app\\Marvel\\pages.json");
+/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ "E:\\myFile\\uni-app\\uni-app\\pages.json");
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ "./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mp-vue/dist/mp.runtime.esm.js"));
-var _me = _interopRequireDefault(__webpack_require__(/*! ./pages/me/me.vue */ "E:\\myFile\\uni-app\\Marvel\\pages\\me\\me.vue"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+var _me = _interopRequireDefault(__webpack_require__(/*! ./pages/me/me.vue */ "E:\\myFile\\uni-app\\uni-app\\pages\\me\\me.vue"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
 createPage(_me.default);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ "./node_modules/@dcloudio/uni-app-plus/dist/index.js")["createPage"]))
 
 /***/ }),
 
-/***/ "E:\\myFile\\uni-app\\Marvel\\main.js?{\"page\":\"pages%2Fsearch%2Fsearch\"}":
-/*!***************************************************************************!*\
-  !*** E:/myFile/uni-app/Marvel/main.js?{"page":"pages%2Fsearch%2Fsearch"} ***!
-  \***************************************************************************/
+/***/ "E:\\myFile\\uni-app\\uni-app\\main.js?{\"page\":\"pages%2Fsearch%2Fsearch\"}":
+/*!****************************************************************************!*\
+  !*** E:/myFile/uni-app/uni-app/main.js?{"page":"pages%2Fsearch%2Fsearch"} ***!
+  \****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ "E:\\myFile\\uni-app\\Marvel\\pages.json");
+/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ "E:\\myFile\\uni-app\\uni-app\\pages.json");
 
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ "./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mp-vue/dist/mp.runtime.esm.js"));
-var _search = _interopRequireDefault(__webpack_require__(/*! ./pages/search/search.vue */ "E:\\myFile\\uni-app\\Marvel\\pages\\search\\search.vue"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
+var _search = _interopRequireDefault(__webpack_require__(/*! ./pages/search/search.vue */ "E:\\myFile\\uni-app\\uni-app\\pages\\search\\search.vue"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}
 createPage(_search.default);
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ "./node_modules/@dcloudio/uni-app-plus/dist/index.js")["createPage"]))
 
 /***/ }),
 
-/***/ "E:\\myFile\\uni-app\\Marvel\\pages.json":
-/*!*******************************************!*\
-  !*** E:/myFile/uni-app/Marvel/pages.json ***!
-  \*******************************************/
+/***/ "E:\\myFile\\uni-app\\uni-app\\pages.json":
+/*!********************************************!*\
+  !*** E:/myFile/uni-app/uni-app/pages.json ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
