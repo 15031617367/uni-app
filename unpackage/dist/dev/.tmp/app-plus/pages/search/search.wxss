@@ -1,0 +1,49 @@
+
+.padding{
+	margin-left: 20rpx;
+	margin-right: 20rpx;
+	background: #eeeeee;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.ico_view{
+	width: auto;
+	height: 60rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack:center;
+	-webkit-justify-content:center;
+	    -ms-flex-pack:center;
+	        justify-content:center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	margin-right: 10rpx;
+	margin-left: 10rpx;
+}
+.ico{
+	width: 36rpx;
+	height: 36rpx;
+}
+.list_view{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-flex-wrap:wrap;
+	    -ms-flex-wrap:wrap;
+	        flex-wrap:wrap
+}
+.poster{
+	width: 200rpx;
+	height: 270rpx;
+}
+.position{
+	margin: 10rpx;
+}
+

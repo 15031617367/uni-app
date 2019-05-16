@@ -1,0 +1,145 @@
+.carousel{
+	width:100%;
+	height:440rpx;
+}
+/* 热门超英 */
+.super-hot{
+	margin-top: 12rpx;
+	padding: 20rpx;
+}
+.hot-title-wapper{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-box-orient:horizontal;
+	-webkit-box-direction:normal;
+	-webkit-flex-direction:row;
+	    -ms-flex-direction:row;
+	        flex-direction:row;
+}
+.hot-ico{
+	width: 30rpx;
+	height: 30rpx;
+	margin-top: 15rpx;
+}
+.hot-title{
+	font-size:20px;
+	margin-left: 20rpx;
+	font-weight:bold;
+}
+.hot{
+	width: 100%;
+	white-space: nowrap;
+	margin-top: 10rpx;
+}
+.single-poster{
+	display: inline-block;
+	margin-left: 20rpx;
+}
+.post-wapper{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.poster{
+	width: 200rpx;
+	height: 270rpx;
+}
+.movie-name{
+	width: 200rpx;
+	margin-top: 10rpx;
+	font-size: 14px;
+	font-weight: bold;
+	white-space: nowrap;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+}
+.movie-score-wapper{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.star-ico{
+	width: 20rpx;
+	height: 20rpx;
+	margin-top: 6rpx;
+}
+.movie-score{
+	font-size: 18rpx;
+	color:grey;
+	margin-top: 6rpx;
+}
+.left{
+	float: left;
+	margin-right: 5rpx;
+}
+.right{
+	float: right;
+	margin-right: 10rpx;
+}
+.test{
+	width: 100%;
+	height: 600px;
+}
+.video{
+	width: 100%;
+	height: 400rpx;
+}
+/* 猜你喜欢 */
+.list{	
+	display: -webkit-box;	
+	display: -webkit-flex;	
+	display: -ms-flexbox;	
+	display: flex;
+}
+.explain_view{
+	margin-left: 10rpx;
+}
+.explain{
+	font-size: 12px;
+	color:#808080
+}
+.fabulous_view{
+	width: 20%;
+	border-left: 1px #808080 dashed;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient:vertical;
+	-webkit-box-direction:normal;
+	-webkit-flex-direction:column;
+	    -ms-flex-direction:column;
+	        flex-direction:column;
+	-webkit-box-pack:center;
+	-webkit-justify-content:center;
+	    -ms-flex-pack:center;
+	        justify-content:center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.fabulous_img{
+	width: 92rpx;
+	height: 92rpx;
+}
+.fabulous_text{
+	color:#ffc234
+}
+
+
